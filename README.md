@@ -1,7 +1,7 @@
 # Print system
 RESTful service for printing system
 
-### To run on docker
+## To run on docker:
 
 ### Clone the project to your local machine
 ``` 
