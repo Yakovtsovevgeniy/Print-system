@@ -1,6 +1,8 @@
 # Print system
 RESTful service for printing system
 
+### To run on docker
+
 ### Clone the project to your local machine
 ``` 
 https://github.com/Yakovtsovevgeniy/Print-system.git
